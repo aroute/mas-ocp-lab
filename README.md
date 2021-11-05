@@ -1,1 +1,1 @@
-# mas-ocp-hands-on-labs
+# mas-ocp-lab
