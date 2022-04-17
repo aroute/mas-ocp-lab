@@ -6,7 +6,7 @@ metadata:
 spec:
   license:
     accept: true
-  domain: xxxxxxINGRESS_SUBDOMAINxxxxx
+#  domain: xxxxxxINGRESS_SUBDOMAINxxxxx
 #  ca:
 #    secretName: ca-keypair
   mongo:
